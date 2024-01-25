@@ -1,0 +1,4 @@
+socket:
+  timeout-in-millis: 100
+  read-timeout-in-millis: 200
+  retry-count: 1

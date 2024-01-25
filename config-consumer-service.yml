@@ -1,0 +1,3 @@
+socket:
+  timeout-in-millis: 1000
+  read-timeout-in-millis: 2000
